@@ -1,2 +1,2 @@
 # Blockchain21
-Address of contracts proceeed by tools
+Address of contracts processed by tools
